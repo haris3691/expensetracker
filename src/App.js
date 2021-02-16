@@ -7,7 +7,7 @@ function App() {
   return (
 
     <div  >
-<h1>hhhyhyh</h1>
+
      <Child />
     </div>
   );
